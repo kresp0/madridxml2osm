@@ -1,5 +1,5 @@
 # madridxml2osm
-Convierte un xml de datos.madrid.es a formato osm.
+Convierte un XML de datos.madrid.es a formato OSM.
 
 Los XML que procesa esta herramienta son los que tienen etiquetas con este formato:
 ```
