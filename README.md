@@ -9,7 +9,7 @@ Uso:
 ```
 ./madridxml2osm.sh archivo.xml [LLAVE]=[VALOR]
 ```
-Ejemplo:
+Un ejemplo con el conjunto de datos "Museos de la ciudad de Madrid":
 ```
 ./madridxml2osm.sh 201132-0-turismo.xml tourism=museum
 ```
