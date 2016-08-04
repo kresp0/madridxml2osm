@@ -15,12 +15,14 @@ Un ejemplo con el conjunto de datos "Museos de la ciudad de Madrid":
 ```
 ./madridxml2osm.sh 201132-0-turismo.xml tourism=museum
 ```
-Esto genera un archivo .osm que NO hay que subir directamente a OSM, pues por cada nodo hay que:
 
-* traducir la fecha (español -> OSM)
+Estos archivos .osm NO se deben subir directamente a OSM. Si quieres usar el script, por favor coméntalo en la lista talk-es, documenta el proyecto, pon el enlace en la tabla del wiki para poder organizarnos.
+
+Por cada nodo hay que:
+* traducir el horario (español -> OSM)
 * meter los artículos necesarios entre el "Calle","Avenida",etc y el nombre de la calle.
-* reducir la descripción si es demasiado larga
-* juntar los datos con los nodos que ya existan en OSM
+* reducir y/o formatear la descripción
+* combinar estos datos con los nodos que ya existan en OSM
 
 | Etiquetas Ayuntamiento | Etiquetas OSM |
 | ---------------------- | :-----------: |
