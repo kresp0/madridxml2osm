@@ -18,6 +18,7 @@ Esto genera un archivo .osm que NO hay que subir directamente a OSM, pues por ca
 * traducir la fecha (español -> OSM)
 * meter los artículos necesarios entre el "Calle","Avenida",etc y el nombre de la calle.
 * reducir la descripción si es demasiado larga
+* Juntar los datos con los nodos que ya existan en OSM
 
 | Etiquetas Ayuntamiento | Etiquetas OSM |
 | ---------------------- | :-----------: |
