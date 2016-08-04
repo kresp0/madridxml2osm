@@ -5,6 +5,8 @@ Los XML que procesa esta herramienta son los que tienen etiquetas con este forma
 ```
 <atributo nombre="ID-ENTIDAD"> 
 ```
+[Ver el listado de los conjuntos de datos](https://wiki.openstreetmap.org/wiki/Import_Ayuntamiento_Madrid)
+
 Uso:
 ```
 ./madridxml2osm.sh archivo.xml [LLAVE]=[VALOR]
