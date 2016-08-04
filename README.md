@@ -16,7 +16,7 @@ Para procesar el conjunto de datos "Museos de la ciudad de Madrid":
 ./madridxml2osm.sh 201132-0-turismo.xml tourism=museum
 ```
 
-Estos archivos .osm NO se deben subir directamente a OSM. Si quieres usar el script, por favor coméntalo en la lista talk-es, documenta el proyecto, pon el enlace en la tabla del wiki para poder organizarnos.
+Estos archivos .osm NO se deben subir directamente a OSM. Si quieres usar el script, por favor coméntalo en la lista talk-es, documenta el proyecto y pon el enlace en la tabla del wiki para poder organizarnos.
 
 Por cada nodo hay que:
 * traducir el horario (español -> OSM)
