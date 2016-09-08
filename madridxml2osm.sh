@@ -66,6 +66,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         &lt;tag k="addr:district" v="<xsl:value-of select="DISTRITO"/>"/&gt;
         &lt;tag k="wheelchair" v="<xsl:value-of select="ACCESIBILIDAD"/>"/&gt;
         &lt;tag k="url" v="<xsl:value-of select="CONTENT-URL"/>"/&gt;
+        &lt;tag k="email" v="<xsl:value-of select="EMAIL"/>"/&gt;
         &lt;tag k="source" v="Ayuntamiento de Madrid"/&gt;
     &lt;/node&gt;
 
