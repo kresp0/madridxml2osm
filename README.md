@@ -34,10 +34,6 @@ Por cada nodo hay que:
 | CLASE-VIAL + "FIXME" + NOMBRE-VIA | addr:street |
 | NUM                    | addr:housenumber |
 | CODIGO-POSTAL          | addr:postcode |
-| LOCALIDAD              | addr:city  |
-| PROVINCIA              | addr:province |
-| BARRIO                 | addr:suburb |
-| DISTRITO               | addr:district |
 | ACCESIBILIDAD          | wheelchair=yes/no |
 | CONTENT-URL            | url |
 
