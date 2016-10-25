@@ -60,10 +60,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         &lt;tag k="addr:street" v="<xsl:value-of select="CLASE-VIAL"/><xsl:text> FIXME </xsl:text><xsl:value-of select="NOMBRE-VIA"/>"/&gt;
         &lt;tag k="addr:housenumber" v="<xsl:value-of select="NUM"/>"/&gt;
         &lt;tag k="addr:postcode" v="<xsl:value-of select="CODIGO-POSTAL"/>"/&gt;
-        &lt;tag k="addr:city" v="<xsl:value-of select="LOCALIDAD"/>"/&gt;
-        &lt;tag k="addr:province" v="<xsl:value-of select="PROVINCIA"/>"/&gt;
-        &lt;tag k="addr:suburb" v="<xsl:value-of select="BARRIO"/>"/&gt;
-        &lt;tag k="addr:district" v="<xsl:value-of select="DISTRITO"/>"/&gt;
         &lt;tag k="wheelchair" v="<xsl:value-of select="ACCESIBILIDAD"/>"/&gt;
         &lt;tag k="url" v="<xsl:value-of select="CONTENT-URL"/>"/&gt;
         &lt;tag k="email" v="<xsl:value-of select="EMAIL"/>"/&gt;
