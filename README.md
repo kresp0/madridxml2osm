@@ -42,3 +42,6 @@ Dependencias:
 ```
 apt-get install xsltproc
 ```
+
+## License
+[0BSD](https://opensource.org/license/0bsd)
